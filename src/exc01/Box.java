@@ -27,7 +27,7 @@ public class Box {
         width=height=depth=len;
     }
 
-    double volume(){
+    public double volume(){
         return width * height * depth;
     }
 }
