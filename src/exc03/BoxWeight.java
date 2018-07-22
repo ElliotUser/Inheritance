@@ -1,7 +1,5 @@
 package exc03;
 
-import exc01.Box;
-
 public class BoxWeight extends Box {
     public double weight;
 

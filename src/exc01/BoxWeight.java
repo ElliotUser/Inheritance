@@ -4,7 +4,7 @@ public class BoxWeight extends Box {
     public double weight;
 
     public BoxWeight(double w, double h, double d, double m){
-        width = w;
+        weight = w;
         height = h;
         depth = d;
         weight = m;
